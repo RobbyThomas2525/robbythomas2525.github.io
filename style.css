@@ -79,15 +79,8 @@ footer {
 .hero {
   display: flex;
   align-items: center;
-  gap: 80px;   /* bigger gap */
+  gap: 50px !important;   /* BIG gap */
   margin-bottom: 60px;
-}
-
-.pfp-left {
-  width: 60px;      /* smaller */
-  height: 60px;     /* smaller */
-  border-radius: 50%;
-  object-fit: cover;
 }
 
 .pfp-left {
@@ -95,8 +88,12 @@ footer {
   height: 250px !important;
   border-radius: 50%;
   object-fit: cover;
-  display: block;
 }
+
+.header-text {
+  max-width: 700px;
+}
+
 
 
 
