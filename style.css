@@ -90,22 +90,13 @@ footer {
   object-fit: cover;
 }
 
-.hero {
-  display: flex;
-  align-items: center;
-  gap: 25px;
-  margin-bottom: 60px;
-}
-
 .pfp-left {
-  width: 250px;   /* bigger */
-  height: 250px;  /* bigger */
+  width: 250px !important;
+  height: 250px !important;
   border-radius: 50%;
   object-fit: cover;
+  display: block;
 }
 
-.header-text {
-  max-width: 700px;
-}
 
 
