@@ -79,7 +79,7 @@ footer {
 .hero {
   display: flex;
   align-items: center;
-  gap: 50px !important;   /* BIG gap */
+  gap: 80px !important;   /* BIG gap */
   margin-bottom: 60px;
 }
 
