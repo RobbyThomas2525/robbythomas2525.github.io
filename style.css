@@ -98,8 +98,8 @@ footer {
 }
 
 .pfp-left {
-  width: 45px;      /* smaller */
-  height: 45px;     /* smaller */
+  width: 200px;      /* smaller */
+  height: 200px;     /* smaller */
   border-radius: 50%;
   object-fit: cover;
 }
