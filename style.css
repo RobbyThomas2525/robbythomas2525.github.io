@@ -93,13 +93,13 @@ footer {
 .hero {
   display: flex;
   align-items: center;
-  gap: 20px;
+  gap: 25px;
   margin-bottom: 60px;
 }
 
 .pfp-left {
-  width: 200px;
-  height: 200px;
+  width: 250px;   /* bigger */
+  height: 250px;  /* bigger */
   border-radius: 50%;
   object-fit: cover;
 }
